@@ -35,7 +35,7 @@ jobs:
 
   Build-TWRP:
     name: ©️ Build TWRP
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     needs:
       - Read-configuration
     strategy:

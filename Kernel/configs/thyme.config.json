@@ -250,7 +250,8 @@
     },
     "enableKernelSU": true,
     "enableLXC": false
-  },{
+  },
+  {
     "kernelSource": {
       "name": "Xiaomi10S（PE-13）",
       "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
